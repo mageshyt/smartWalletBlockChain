@@ -42,3 +42,20 @@ The contract has several functions:
 The addGuard, removeGuard, addAllowed, and removeAllowed functions can only be called by the contract owner or guards. The createAccount, deposit, withdraw, and sendMoney functions can only be called by allowed users.
 
 The contract also checks if a user has enough balance before allowing them to withdraw or send money. It also checks if the contract has enough balance to complete the transaction. Additionally, the contract prevents users from sending money to themselves and ensures that the receiver has a valid account and is allowed to receive funds.
+
+## screenshort
+
+1.Testing
+
+![image](https://github.com/mageshyt/smartWalletBlockChain/assets/70838644/58875b80-0b3b-4f2c-97f5-1546e7f88107)
+
+2.Running the script
+
+![image](https://github.com/mageshyt/smartWalletBlockChain/assets/70838644/98635a94-18c8-44d1-a25d-3f3f572608d3)
+
+3.Demo video
+
+
+
+https://github.com/mageshyt/smartWalletBlockChain/assets/70838644/17b8d410-6880-4d80-9fdc-5fbb9de82349
+
